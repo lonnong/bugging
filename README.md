@@ -1,6 +1,11 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Goal-  Player must get all the way to the top of the screen.  Once the Top is reached the player will be reset and a new bug will appear.  After many wins the game will get more difficult.
 
-for self-checking their submission.
+Challenge- Getting near the bugs will cause the player to be reset.
+
+Movement-                  Up -   up Arrow key
+                           Down-  down Arrow key
+                           Left-  Left Arrow key
+                           Right- Right Arrow key
